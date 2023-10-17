@@ -1,0 +1,5 @@
+connection_string='postgresql://pguser:pguser@localhost/pgdb'
+
+jobs_to_run = [
+	"drop_all_tables"
+]
